@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="366" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="d" x1="97.09%" x2="9.26%" y1="61.66%" y2="72.76%">
+      <stop stop-color="#F5F5F5" offset="0%"/>
+      <stop stop-color="#FFF" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="e" x1="97.73%" x2="52.35%" y1="61.66%" y2="61.66%">
+      <stop stop-color="#89D4FF" offset="1.4%"/>
+      <stop stop-color="#2C7FFF" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="f" x1="36.98%" x2="61.88%" y1="34.79%" y2="12.16%">
+      <stop stop-color="#6AC2FF" offset="0%"/>
+      <stop stop-color="#66C5EA" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="g" x1="1.81%" x2="42.94%" y1="59.6%" y2="40.42%">
+      <stop stop-color="#89D4FF" offset="1.4%"/>
+      <stop stop-color="#2C7FFF" offset="100%"/>
+    </linearGradient>
+    <path id="a" d="M8 383.54h955.05v232.98H8z"/>
+    <mask id="h" width="955.05" height="232.98" x="0" y="0" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path id="b" d="M306.77 304.86h501.07V427.1H306.77z"/>
+    <mask id="i" width="501.07" height="122.23" x="0" y="0" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path id="c" d="M1044.63 166.24h501.07v122.23h-501.07z"/>
+    <mask id="j" width="501.07" height="122.23" x="0" y="0" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="rotate(11 1794.7 -431.975)">
+    <path fill="url(#d)" d="M383.58 317.36h955.05v232.98H383.58z" transform="rotate(-23 861.105 433.85)"/>
+    <path fill="url(#e)" d="M81.96 549.8H1037v232.97H81.97z" transform="rotate(-23 559.482 666.283)"/>
+    <path fill="url(#f)" d="M1657.5 314.57l-652.52 315.18-71.7-159.26 652.52-315.2"/>
+    <path fill="url(#g)" d="M2241.28 303.54L997.56 904.27 860.9 600.73 2104.64 0"/>
+    <use stroke="#BED2FF" stroke-width="2" mask="url(#h)" transform="rotate(-23 485.528 500.025)" xlink:href="#a"/>
+    <use stroke="#83FFE1" stroke-width="2" mask="url(#i)" transform="rotate(-23 557.306 365.977)" xlink:href="#b"/>
+    <use stroke="#ABE2FF" stroke-width="2" mask="url(#j)" transform="rotate(155 1295.164 227.358)" xlink:href="#c"/>
+  </g>
+</svg>

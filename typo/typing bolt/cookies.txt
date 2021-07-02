@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.typingbolt.com	TRUE	/	FALSE	1999999999	ci_session	92t9et9mcctv5j0kbckjva6nj745kuh7
+

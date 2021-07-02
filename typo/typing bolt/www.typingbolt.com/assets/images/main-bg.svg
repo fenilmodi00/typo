@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="880px" viewBox="0 0 1920 880" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>main bg copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.9081127%" y1="42.3348995%" x2="21.3917045%" y2="86.8729241%" id="linearGradient-1">
+            <stop stop-color="#F5F5F5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="98.4924934%" y1="42.0868446%" x2="56.7234288%" y2="59.816763%" id="linearGradient-2">
+            <stop stop-color="#89D4FF" offset="1.39907526%"></stop>
+            <stop stop-color="#2C7FFF" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-3" points="372.646246 497.784738 942.488143 255.901204 999.480612 390.167049 429.638716 632.050583"></polyline>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="626.834366" height="376.149379" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <linearGradient x1="1.81321211%" y1="59.6006985%" x2="42.9380669%" y2="40.4238613%" id="linearGradient-5">
+            <stop stop-color="#89D4FF" offset="1.39907526%"></stop>
+            <stop stop-color="#2C7FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="36.9835081%" y1="34.7894844%" x2="61.881624%" y2="12.1614646%" id="linearGradient-6">
+            <stop stop-color="#4EE3F6" offset="0%"></stop>
+            <stop stop-color="#2C98FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="96.9256098%" y1="42.7519473%" x2="58.0807011%" y2="59.2406351%" id="linearGradient-7">
+            <stop stop-color="#44BAFF" offset="0%"></stop>
+            <stop stop-color="#3DF8DC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(0.000000, -53.000000)">
+            <g id="main-bg-copy" transform="translate(-385.000000, 49.000000)">
+                <polyline id="Rectangle-4-Copy-7" fill="url(#linearGradient-1)" points="464.013101 627.530589 1550.15146 166.492209 1658.78108 422.407552 572.64272 883.445932"></polyline>
+                <polyline id="Rectangle-4" fill="url(#linearGradient-2)" points="-2.22583047e-13 706.497657 1086.13836 245.459277 1194.76798 501.37462 108.629618 962.413"></polyline>
+                <use id="Rectangle-4-Copy-5" stroke="#83FFE1" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                <polyline id="Rectangle-4-Copy-2" fill="url(#linearGradient-5)" points="2581.53125 270.968327 1512.14455 769.631537 1394.64979 517.663209 2464.03649 19"></polyline>
+                <polyline id="Rectangle-4-Copy-3" fill="url(#linearGradient-6)" points="2375.69671 132.195045 1814.64356 393.818426 1753 261.623381 2314.05315 7.4194349e-14"></polyline>
+                <polyline id="Rectangle-4-Copy-16" fill="url(#linearGradient-7)" points="151 578.883534 720.841897 337 777.834366 471.265845 207.99247 713.149379"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
